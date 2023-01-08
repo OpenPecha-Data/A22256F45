@@ -1,0 +1,22 @@
+id: A22256F45
+title: Prayer to Jamyang Khyentse Wangpo
+type: translation
+pechas:
+- IE808F08D
+- IDD3D474F
+- IEB9CF948
+source_metadata:
+  languages:
+  - en
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:35:29.502993
+  last_modified_at: 2023-01-04 12:35:29.503001
+  collections:
+  - Jamyang Khyentse Wangpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IE808F08D/4668: A624
+  IDD3D474F/B3EE: A624
+  IEB9CF948/5750: A624
